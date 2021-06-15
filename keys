@@ -1,0 +1,9 @@
+Index(['Time(ms)', 'Engine RPM(1/min)', 'Vehicle speed(km/h)', 'Throttle(%)',
+       'Engine load(mg/stk)', 'Intake air temperature(V)',
+       'Engine coolant temperature(V)', 'Ignition(Deg)', 'Injection(ms)',
+       'Battery(V)', 'Vanos angle(Deg)', 'Lambda integrator 1()',
+       'Lambda integrator 2()', 'TPS(V)', 'MAF(V)', 'Knock 1(V)', 'Knock 2(V)',
+       'Additive correction 1(ms)', 'Additive correction 2(ms)',
+       'Multiplicative correction 1(ms)', 'Multiplicative correction 2(ms)',
+       'Idle load()', 'Part load()', 'Full load()', 'Vanos advanced()'],
+      dtype='object')
